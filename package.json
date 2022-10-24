@@ -9,7 +9,8 @@
   "devDependencies": {
     "monaco-editor": "^0.34.1",
     "nuxt-monaco-editor": "^1.0.4",
-    "sass": "^1.55.0"
+    "sass": "^1.55.0",
+    "vue-gtag-next": "^1.14.0"
   },
   "dependencies": {
     "@nuxt/vite-builder": "^3.0.0-rc.11",
