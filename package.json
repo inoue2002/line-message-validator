@@ -7,11 +7,13 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
+    "monaco-editor": "^0.34.1",
+    "nuxt-monaco-editor": "^1.0.4",
     "sass": "^1.55.0"
   },
   "dependencies": {
     "@nuxt/vite-builder": "^3.0.0-rc.11",
-    "vuetify": "3.0.0-beta.14",
-    "nuxt": "3.0.0-rc.12"
+    "nuxt": "3.0.0-rc.12",
+    "vuetify": "3.0.0-beta.14"
   }
 }

@@ -1,4 +1,10 @@
 {
   // https://v3.nuxtjs.org/concepts/typescript
-  "extends": "./.nuxt/tsconfig.json"
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+
+    // Disable this and you get more information about the errors?
+    "strictNullChecks": true
+  }
 }
