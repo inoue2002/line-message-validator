@@ -10,7 +10,7 @@ export default defineNuxtPlugin((nuxtApp) => {
   nuxtApp.vueApp.use(
     VueTag,
     {
-      appName: 'std9', // サイトの名称
+      appName: 'LINEAPIMessageValidator',
       pageTrackerScreenviewEnabled: true,
       config: { id: `G-FRP4RF4FQZ` },
     },
