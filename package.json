@@ -13,7 +13,7 @@
     "vue-gtag-next": "^1.14.0"
   },
   "dependencies": {
-    "@nuxt/vite-builder": "^3.2.3",
+    "@nuxt/vite-builder": "^3.3.3",
     "nuxt": "3.2.3",
     "vuetify": "3.1.6"
   }
